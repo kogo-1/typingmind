@@ -5,7 +5,7 @@ Static Self-host Version
 </h2>
 <div align="center">
 
-  Typing Mind is the most advanced Chat UI frontend for AI models like ChatGPT, Claude, Gemini, and open-source models
+  Typing Mind is the most advanced Chat UI frontend for AI mdels like ChatGPT, Claude, Gemini, and open-source models
   <br/>
   
   <img alt="Users: 18,000+" src="https://img.shields.io/badge/users-18%2C000%2B-green">
